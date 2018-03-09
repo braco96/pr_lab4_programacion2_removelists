@@ -1,0 +1,1 @@
+Coloca aquí aedlibraries.jar (librería de la asignatura). El pom usa dependencia systemPath.
